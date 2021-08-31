@@ -1,0 +1,55 @@
+
+header{
+    background-image: url(../img/pattern.png);
+    background-color: aqua;
+    background-size: contain;;
+    height: 150px;
+}
+
+#Logo{
+    width: 300px;
+    margin-top: 70px;
+}
+
+.Testo-grigio{
+    color: gray;
+}
+#Testo-blu{
+    color: aqua;
+
+}
+
+.Testo-piccolo{
+    font-size: 10px;
+}
+
+.sfondo-giallo{
+    background-color: yellow;
+}
+
+.titoli-tabella{
+    background-color: blue;
+    color: white;
+}
+
+.colore-sfondo{
+    background-color: cadetblue ;
+}
+
+.prima-foto{
+    background-image: url("../img/monitor.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 210px;
+    color: white;
+}
+
+.seconda-foto{
+    background-image: url("../img/graph.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 210px;
+    color: white;
+}
